@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ibrahim</h1>
-<p align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+fullstack+developer" alt="Typing SVG" /></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+fullstack+developer" alt="Typing SVG" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimmu35&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimmu35" /> </p>
 
