@@ -24,5 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmu35&" alt="ibrahimmu35" /></p>
 <h3 align="left">🐍 A Snake Eating my Contributions Graph</h3>
-
 <img src="https://github.com/ibrahimMU35/readme_files/blob/main/github-contribution-grid-snake.svg"/>
