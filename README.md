@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ibrahim</h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Miniver&size=30&duration=3000&pause=250&color=EE5BFF&center=true&vCenter=true&width=435&lines=A+passionate+fullstack+developer;Always+learning+new+things;Computer+Science;Software+Development" alt="Typing SVG" /></p>
-<img align="right"  width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+
+<img align="right" height="350" src="https://github.com/ibrahimMU35/readme_files/blob/main/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimmu35&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimmu35" /> </p>
 
