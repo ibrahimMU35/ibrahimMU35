@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **This is the way!**
 
-<h3 align="left"><picture> <img src = "https://github.com/ibrahimMU35/readme_files/blob/main/Connect-with-me.gif" width="40">  </picture> Connect with me:</h3>
+<h3 align="left"><picture> <img src = "https://github.com/ibrahimMU35/readme_files/blob/main/superduck.gif" width="40">  </picture>  Connect with me:</h3>
 <p align="left">_____ <a href="https://linkedin.com/in/ibrahim-m-2a134211a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-m-2a134211a/" height="30" width="40" /></a>
 </p> 
 
