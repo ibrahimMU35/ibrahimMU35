@@ -1,3 +1,4 @@
+<p align="center"><picture><img src="https://github.com/ibrahimMU35/readme_files/blob/main/tree.gif"/></picture></p>
 <h1 align="center">Hi 👋, I'm ibrahim</h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Miniver&size=30&duration=3000&pause=250&color=EE5BFF&center=true&vCenter=true&width=435&lines=A+passionate+fullstack+developer;Always+learning+new+things;Computer+Science;Software+Development" alt="Typing SVG" /></p>
 
