@@ -5,7 +5,7 @@
 
 <picture><img align="right" height="350" src="https://github.com/ibrahimMU35/readme_files/blob/main/programmer.gif"/></picture>
 
-<p align="left"><picture> <img src = "https://github.com/ibrahimMU35/readme_files/blob/main/ha.gif" width="40">  </picture>  <img src="https://komarev.com/ghpvc/?username=ibrahimmu35&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimmu35" /> </p>
+<p align="left"><picture> <img src = "https://github.com/ibrahimMU35/readme_files/blob/main/ha.gif" width="40">  </picture>  <img src="https://komarev.com/ghpvc/?username=ibrahimMU35&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimMU35" /> </p>
 
 - 🔭 I’m currently working on **Javascript**
 
@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimMU35&show_icons=true&locale=en" alt="ibrahimMU35" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimMU35&" alt="ibrahimMU5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimMU35&" alt="ibrahimMU35" /></p>
 <h3 align="left">🐍 A Snake Eating My Contributions Graph</h3>
 <img src="https://github.com/ibrahimMU35/readme_files/blob/main/github-contribution-grid-snake.svg"/>
